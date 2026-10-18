@@ -1,0 +1,7 @@
+// PREDICTED output from the Python golden model - NOT produced by a Verilog simulator.
+PASS: x0 = 0x00000000
+PASS: x10 = 0x00000037
+PASS: mem[0] (addr 0x000) = 0x00000037
+--------------------------------------------------
+RESULT: PASS  test=sum  (4 checks)
+--------------------------------------------------

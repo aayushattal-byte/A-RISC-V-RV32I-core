@@ -1,0 +1,17 @@
+// PREDICTED output from the Python golden model - NOT produced by a Verilog simulator.
+PASS: x0 = 0x00000000
+PASS: x10 = 0xa1b2c3d4
+PASS: x11 = 0xffffffd4
+PASS: x12 = 0x000000d4
+PASS: x13 = 0xffffa1b2
+PASS: x14 = 0x0000a1b2
+PASS: x15 = 0xffffffc3
+PASS: x16 = 0x000000a1
+PASS: x17 = 0x00005a00
+PASS: x8 = 0xbeef0000
+PASS: mem[0] (addr 0x000) = 0xa1b2c3d4
+PASS: mem[1] (addr 0x004) = 0x00005a00
+PASS: mem[2] (addr 0x008) = 0xbeef0000
+--------------------------------------------------
+RESULT: PASS  test=loadstore  (14 checks)
+--------------------------------------------------

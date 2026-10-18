@@ -1,0 +1,7 @@
+// PREDICTED output from the Python golden model - NOT produced by a Verilog simulator.
+UART OUTPUT: RV32I OK fib(10)=55
+PASS: UART text matches "RV32I OK fib(10)=55" + CRLF
+PASS: leds = 55 (0b0000000000110111)
+--------------------------------------------------
+RESULT: PASS  test=demo  (23 checks)
+--------------------------------------------------

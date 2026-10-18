@@ -1,0 +1,26 @@
+// PREDICTED output from the Python golden model - NOT produced by a Verilog simulator.
+PASS: x0 = 0x00000000
+PASS: x8 = 0x0000000b
+PASS: x9 = 0x00000013
+PASS: x18 = 0x0000000c
+PASS: x19 = 0xffffffff
+PASS: x20 = 0xfffffff3
+PASS: x21 = 0x00000078
+PASS: x22 = 0x1fffffff
+PASS: x23 = 0xffffffff
+PASS: x24 = 0x00000001
+PASS: x25 = 0x00000000
+PASS: x26 = 0xfffffffb
+PASS: x27 = 0x0000005a
+PASS: x28 = 0x000000f0
+PASS: x29 = 0x0000000f
+PASS: x30 = 0xfffffffe
+PASS: x31 = 0x00000001
+PASS: x5 = 0x00000007
+PASS: x6 = 0x12345000
+PASS: x7 = 0x000000a8
+PASS: x1 = 0x000000b0
+PASS: x13 = 0x0000004e
+--------------------------------------------------
+RESULT: PASS  test=alu_branch  (23 checks)
+--------------------------------------------------

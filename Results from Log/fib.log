@@ -1,0 +1,22 @@
+// PREDICTED output from the Python golden model - NOT produced by a Verilog simulator.
+PASS: x0 = 0x00000000
+PASS: x10 = 0x00000262
+PASS: mem[0] (addr 0x000) = 0x00000000
+PASS: mem[1] (addr 0x004) = 0x00000001
+PASS: mem[2] (addr 0x008) = 0x00000001
+PASS: mem[3] (addr 0x00c) = 0x00000002
+PASS: mem[4] (addr 0x010) = 0x00000003
+PASS: mem[5] (addr 0x014) = 0x00000005
+PASS: mem[6] (addr 0x018) = 0x00000008
+PASS: mem[7] (addr 0x01c) = 0x0000000d
+PASS: mem[8] (addr 0x020) = 0x00000015
+PASS: mem[9] (addr 0x024) = 0x00000022
+PASS: mem[10] (addr 0x028) = 0x00000037
+PASS: mem[11] (addr 0x02c) = 0x00000059
+PASS: mem[12] (addr 0x030) = 0x00000090
+PASS: mem[13] (addr 0x034) = 0x000000e9
+PASS: mem[14] (addr 0x038) = 0x00000179
+PASS: mem[15] (addr 0x03c) = 0x00000262
+--------------------------------------------------
+RESULT: PASS  test=fib  (19 checks)
+--------------------------------------------------
