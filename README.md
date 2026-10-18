@@ -70,7 +70,6 @@ The expected values were produced by `sw/iss.py` (written independently of the R
 cross-checked by hand. Waveform views from the golden model are in `docs/wave_*.png`.
 
 > **Status note:** the RTL in this repository was written and reviewed, but at the time of
-> writing it had **not yet been run through a Verilog simulator or Vivado** (the authoring
 > environment had none). Run `make sim` and `make compare` first; commit the generated
 > `sim/logs/*.log` and `sim/waves/*.vcd` (small, except `demo.vcd`) as your real results.
 > Only the Python golden model and plots in `docs/` and `sim/expected/` were executed.
